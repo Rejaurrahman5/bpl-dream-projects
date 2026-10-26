@@ -1,0 +1,102 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-rounder",
+    "rating": 95,
+    "batingStyle": "Left-hand bat",
+    "bowingStyle": "Left-arm orthodox",
+    "price": 500,
+    "playerimg":"https://i.ibb.co.com/Q3k9G1zD/images.jpg"
+  },
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 98,
+    "batingStyle": "Right-hand bat",
+    "bowingStyle": "Right-arm medium",
+    "price": 1000,
+    "playerimg": "https://i.ibb.co.com/tTrP64mG/17kohli1.jpg"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 94,
+    "batingStyle": "Right-hand bat",
+    "bowingStyle": "Right-arm off-break",
+    "price": 1800,
+    "playerimg": "https://i.ibb.co.com/3ymBmGfM/babar-azam.jpg"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 97,
+    "batingStyle": "Right-hand bat",
+    "bowingStyle": "Right-arm fast",
+    "price": 17000000,
+    "playerimg": "/images/bumrah.jpg"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-rounder",
+    "rating": 93,
+    "batingStyle": "Left-hand bat",
+    "bowingStyle": "Right-arm fast-medium",
+    "price": 16000000,
+    "playerimg": "/images/stokes.jpg"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 92,
+    "batingStyle": "Right-hand bat",
+    "bowingStyle": "Right-arm off-break",
+    "price": 14000000,
+    "playerimg": "/images/williamson.jpg"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 96,
+    "batingStyle": "Right-hand bat",
+    "bowingStyle": "Right-arm leg-break",
+    "price": 15500000,
+    "playerimg": "/images/rashid.jpg"
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 94,
+    "batingStyle": "Right-hand bat",
+    "bowingStyle": "Right-arm medium",
+    "price": 16500000,
+    "playerimg": "/images/buttler.jpg"
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "playerType": "Bowler",
+    "rating": 91,
+    "batingStyle": "Left-hand bat",
+    "bowingStyle": "Left-arm fast-medium",
+    "price": 13000000,
+    "playerimg": "/images/boult.jpg"
+  },
+  {
+    "playerName": "Litton Das",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 89,
+    "batingStyle": "Right-hand bat",
+    "bowingStyle": "Right-arm off-break",
+    "price": 9000000,
+    "playerimg": "/images/litton.jpg"
+  }
+]
