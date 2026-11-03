@@ -20,6 +20,7 @@ const handleDeleteSelectedPlayer = (player)=> {
             <div className='h-[400px] flex items-center justify-center flex-col gap-4'>
                <h2 className='font-semibold text-xl'>No players selected yet</h2>
                <p className=''>Go to Available tab to select players</p>
+                <button>add players</button>
             </div>
            : selectedPlayers.map((player, ind) => (
              <SelectedCard key={ind} player={player} handleDeleteSelectedPlayer={handleDeleteSelectedPlayer}></SelectedCard>
@@ -27,6 +28,7 @@ const handleDeleteSelectedPlayer = (player)=> {
             
         }
         </div>
+        {selectedPlayers.length > 0 && <button className='font-semibold bg-[#E7FE29] rounded-2xl p-2 mt-4'>Add more players</button>}
        </div>
     );
 };
